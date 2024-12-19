@@ -14,7 +14,8 @@
 ![image](https://github.com/user-attachments/assets/6b651c45-5c4d-4cb5-981a-16d5cac463c5)
 
 ## Modelo Lógico
-![image](https://github.com/user-attachments/assets/6f2abed2-0cca-48ef-8fd6-20d2c42d1080)
+![image](https://github.com/user-attachments/assets/d25fe25f-8169-409a-857b-ef9c9e078a8b)
+
 
 ## Modelo Físico
 
